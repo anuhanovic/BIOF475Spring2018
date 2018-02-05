@@ -65,22 +65,22 @@ Lessons will be uploaded to this repo prior to each class.
 
 ## Schedule (SUBJECT TO CHANGE)
 
-* Week 1 (Jan 31st) – Antej: [Overview] Course summary, introductions and semester project discussions && Five Ws of Data Science aka "Crash course in building a plane while flying it"
-* Week 2 (Feb 7th) – Antej: [Enterprise Architect] Computer/System Architecture aka "Abstraction - the root of all evil" && [System Administrator] Linux and the command line aka "Let me micro your kernel"
+* Week 1 (Jan 31st) – [Overview] Course summary, introductions and semester project discussions && Five Ws of Data Science aka "Crash course in building a plane while flying it"
+* Week 2 (Feb 7th) – [Enterprise Architect] Computer/System Architecture aka "Abstraction - the root of all evil" && [System Administrator] Linux and the command line aka "Let me micro your kernel"
 * DUE: Send in a short paragraph about final project - what question do you have?
-* Week 3 (Feb 14th) – Antej: [Data Scientist] Hadoop and Apache stack aka "Lambdas, Key-Value store, MapReduce. But why?"
-* Week 4 (Feb 21th) - Antej: [System Administrator] OpenStack aka "The village has spoken"
-* Week 5 (Feb 28th) – Robin: [Decision Maker] Insights from the experts
+* Week 3 (Feb 14th) – [Data Scientist] Hadoop and Apache stack aka "Lambdas, Key-Value store, MapReduce. But why?"
+* Week 4 (Feb 21th) - [System Administrator] OpenStack aka "The village has spoken"
+* Week 5 (Feb 28th) – [Decision Maker] Insights from the experts
 * __Feb 23rd - Last day to drop__
-* Week 6 (Mar 7th) – Antej: [Programmer] Python vs R vs Pig aka "Our differences make us better"
-* Week 7 (Mar 14st) – Antej: What is Serverless?
-* Week 8 (Mar 21st) – Antej: [Data Janitor] Wrangling your data aka "Pareto principle is real" && [Deep Learning] WEKA and TensorFlow
-* Week 9 (Mar 28th) – Antej: [Decision Maker] Security && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project”
+* Week 6 (Mar 7th) – [Programmer] Python vs R vs Pig aka "Our differences make us better"
+* Week 7 (Mar 14st) – [Revolutionary] What is Serverless?
+* Week 8 (Mar 21st) – [Data Janitor] Wrangling your data aka "Pareto principle is real" && [Deep Learning] WEKA and TensorFlow
+* Week 9 (Mar 28th) – [Decision Maker] Security && Best practices aka "You get a hammer, and you get a hammer..." && Student topics aka “Here’s what I need for the project”
 * __March 30th - Last day to change status (credit or audit)__
-* Week 10 (Apr 4th) – Antej: [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
-* Week 11 (Apr 11th) – Sini: [Computer scientist] Machine Learning aka "Daisy Bell by HAL 9000"
-* Week 12 (Apr 18th) – Antej: [Human] Visualization aka "The pale blue dot"
-* Week 13 (Apr 25th) – Antej: [Change Agent] NIH Data Science aka "Let's pave the way"
+* Week 10 (Apr 4th) – [Statistician] Predictive Modeling aka "Descriptive doesn’t cut it"
+* Week 11 (Apr 11th) – [Computer scientist] Machine Learning aka "Daisy Bell by HAL 9000"
+* Week 12 (Apr 18th) – [Human] Visualization aka "The pale blue dot"
+* Week 13 (Apr 25th) – [Change Agent] NIH Data Science aka "Let's pave the way"
 * Week 14 (May 2nd) – Students: Final Project Presentations
 * Week 15 (May 9th) - Students: Final Project Presentations
 * __Project source code, data files (where possible) and presentation due May 9th.__
