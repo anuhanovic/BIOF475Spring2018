@@ -1,0 +1,8 @@
+By the end of the class I want to be able to build a beast machine that will use NVIDIA CUDA libraries 9. to analyse NLP data for trending.
+The idea is to learn the process necessary to actually parse words from many documents and create a body or corpus of words.
+Then, use different algorithms in conjunction with tensorflow to create a training and testing randomly selected data base of documents,
+using what I have learned from the parsing excercise, and begin to create an objective functions parameters.  The idea is to find
+precursors to tragic events and identify them with the model, and then use the objective function, tensorflow, to examine other documents
+as they become available to find situations where the precursors exist, but the events haven't occurred.
+As the semester progresses, I will modify this first iteration with the learnings as they come with respect to the different processes
+of deep learning techniques.
