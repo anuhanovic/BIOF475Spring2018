@@ -1,5 +1,5 @@
 
-Creating a localized database which will characterize NextGen Sequence Reads
+## Creating a localized database which will characterize NextGen Sequence Reads
 
 I would like to map and characterize somatic mutations that are found in Next Generation Sequence DNA reads using programming and a number of different bioinformatics software.  The mutations would be typed based on nucleic base insertions and deletions and protein coding region.  In addition, the nucleotide position and chromosome location for each mutation would be identified.  These tasks would be carried out first by performing nucleic acid assemblies and alignments with information obtained from a genome browser and using software such as bowtie2 and velvet.  Sequences of interest then could be distinguished from others by utilizing variant differentiation software tools such as SamTools and TopHat. 
 
