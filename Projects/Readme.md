@@ -1,3 +1,5 @@
+Please create a folder with your LastName_FirstName, make a Readme.md
+
 
 ## Past Student projects:
 #### * wx-sy	First Name	Last Name	Institute	Lab	Project Title	Team?	Project Short Description	Project Long Description
