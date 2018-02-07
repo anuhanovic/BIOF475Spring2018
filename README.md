@@ -37,8 +37,12 @@ Students are encouraged to use Github for discussions and questions. Students ar
 Each student must bring their own laptop to each class. 
 
 ## Recommended books
-There is no required book for this course. However, we recommend reading the following freely available book:
-Stanton, Jeffrey An Introduction to Data Science (Verison 3, 2013) (https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
+There is no required book for this course. However, we recommend reading the following freely available books:
+
+#### Stanton, Jeffrey An Introduction to Data Science (Verison 3, 2013) (https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1)
+#### Data Science for Business by F. Provost and T. Fawcett (available in print or as a free e-Book through the USU library Safari e-Books collection at http://proquest.safaribooksonline.com/book/databases/business-intelligence/9781449374273) ISBN: 978-1449361327 
+#### Data Mining for the Masses by M. North (available as a free PDF online at http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf )
+ISBN: 978-0615684376
 
 ## Assignments and Grading
 Homework will account for 40% of the final grade. Homework should be uploaded to github and will be due at the beginning of the next class. The files submitted should follow the naming convention: “lastname.firstinitial.homework#”.[extension|zip prefered]
