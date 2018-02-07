@@ -1,0 +1,15 @@
+Seq1	C	A	C	C	G	G	A	C	G	G	C	A	C	T	T	T	T	C	G	C	T	T
+Seq2	G	T	T	C	G	A	A	T	A	G	T	G	A	C	C	G	T	C	C	C	C	T
+Seq3	G	T	T	C	G	A	A	T	A	G	T	G	A	C	C	G	T	C	C	C	C	T
+Seq4	G	T	T	C	G	A	A	T	A	G	T	G	A	C	C	G	T	C	C	C	C	T
+Seq5	C	T	C	G	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq6	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq7	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq8	C	T	C	G	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq9	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq10	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq11	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq12	G	T	T	C	G	A	A	T	A	G	T	G	A	C	C	G	T	C	C	C	C	T
+Seq13	C	T	C	C	T	A	G	C	G	G	C	A	C	T	T	T	T	T	G	A	T	G
+Seq14	C	T	C	C	T	A	G	C	G	T	C	A	C	T	T	T	T	T	G	A	T	G
+Seq15	G	T	T	C	G	A	A	T	A	G	T	G	A	C	C	G	T	C	C	C	C	T
