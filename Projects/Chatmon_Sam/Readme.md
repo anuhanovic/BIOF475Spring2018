@@ -1,3 +1,5 @@
+Comments:
+https://www.ncbi.nlm.nih.gov/sra
 
 ## Creating a localized database which will characterize NextGen Sequence Reads
 
