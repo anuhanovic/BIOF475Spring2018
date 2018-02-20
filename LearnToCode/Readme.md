@@ -10,3 +10,7 @@
 * [http://seanallen.co](http://seanallen.co)
 
 * [http://seanallen.co/posts/7-steps-to-begin-learning-swift](http://seanallen.co/posts/7-steps-to-begin-learning-swift)
+
+* [https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
+
+* [https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
