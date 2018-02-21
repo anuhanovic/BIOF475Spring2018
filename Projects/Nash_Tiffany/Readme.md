@@ -1,3 +1,2 @@
-machine learning for fMRI data
-OR
-creating database of record of all contacts for participants in longitudinal research study
+Use machine-learning to classify copy-number variation of 7q11.23 (hemideleted in Williams Syndrome and duplicated in Duplication syndrome) based on diffusion tensor imaging data collected in cohort of children with Williams syndrome, typically developing children, and duplication syndrome. I plan to use the methods detailed in: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522376/pdf/main.pdf
+The idea is to find white matter features that maximally discriminate these groups and examine if the imaging metrics are associated with known cognitive and personality features of Williams syndrome and Duplication syndrome. 
