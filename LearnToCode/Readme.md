@@ -5,7 +5,7 @@
 * CodeWithChris.com
 [https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw](https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw)
 
-* [https://www.raywenderlich.com](https://www.raywenderlich.com)
+* [Raywenderlich.com](https://www.raywenderlich.com)
 
 * [http://seanallen.co](http://seanallen.co)
 
@@ -17,6 +17,8 @@
 
 * [https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 
-* [https://flatironschool.com/programs/online-swift-free-course/](https://flatironschool.com/programs/online-swift-free-course/)
+* [Flatiron School free Swift course](https://flatironschool.com/programs/online-swift-free-course/)
 
-* [Let's Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Let's Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA) with Firebase videos
+
+* [Google Web Designer](https://www.google.com/webdesigner/)
