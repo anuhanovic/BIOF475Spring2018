@@ -68,7 +68,7 @@ As of 2/5/2018, the Machine Learning service on IBM Cloud is only available in t
 
 Use Ctrl-click on the Deploy to `IBM Cloud` button below to open the deployment process in a separate tab.
 
-  [![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/predictive-model-on-watson-ml)
+  [![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/anuhanovic/BIOF475Spring2018/tree/master/Week5)
 
 > Note:  Make sure to deploy the application to the same region and space as where the *Apache Spark* and *Cloud Object Storage* services were created when you signed up for IBM Data Science Experience. Please take note of this space as later in this lab the Watson Machine Learning service needs to be deployed into the same space.
 
