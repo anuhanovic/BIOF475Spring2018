@@ -56,7 +56,7 @@ TBD
 
 ## Prerequisites
 
-* An [IBM Cloud Account](https://console.bluemix.net)
+* An [IBM Cloud Account](https://ibm.biz/BdZjEt)
 
 * An account on [IBM Data Science Experience] (https://datascience.ibm.com).
 
