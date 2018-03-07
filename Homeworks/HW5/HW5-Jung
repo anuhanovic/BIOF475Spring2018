@@ -1,0 +1,6 @@
+There are many ways to train a model to output a binary classification (i.e. Heart Failure Risk or Not), Random Forest being
+just one of them. 
+One simple method is a Naive Bayesian classifier, which will assume all information input for a subject is independent 
+and attempt to classify an individual based on the probability of Heart Failure given each characteristic.
+While an assumption of information independence may not be valid in this case (e.g. BMI, Cholesterol and Exercise Per Week
+are likely highly correlated), this would be one method that could be used.
