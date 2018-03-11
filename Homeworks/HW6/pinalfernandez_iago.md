@@ -1,4 +1,4 @@
-### Here is the "Hello, World" programme in Python, R and a couple more programming languages.
+### Here is the "Hello, World" program in Python, R and a couple more programming languages.
 
 ### ALGOL
 ```
