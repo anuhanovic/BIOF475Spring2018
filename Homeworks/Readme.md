@@ -6,3 +6,4 @@
 - Homework for Week 4 is to use one of the Big Data tools we discussed in class, local or cloud based, and show output of an analysis. (For example, download and install VirtualBox (and the extension pack) and download/install/run the Cloudera QuickStart (VirtualBox) VM and find the bug with the Quick Start.)
 - Homework for Week 5 is to specify (besides from Random Forests the following methods could have been used to solve the classification problem:
 - Homework for Week 6 is to write "Hello World" in Python and R, and any other languages you're interested in.
+- Homework for Week 7 is to tell me what is the difference between Classification and Regresssion, and what algorithms are best to use with both.
