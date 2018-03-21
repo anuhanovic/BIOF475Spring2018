@@ -1,4 +1,9 @@
-While both Classification and Regression are two kinds of supervised machine learning algorithms, the former is based on discrete or categorical variables while the latter is based on continuous ones.  The Classification predictive model can be used to place something in one of two groups (binomial classification) or even more groups (multi-class classification).  For example, to predict the gender of an individual based on how much weight he or she can bench press. However, the output of a Regression problem is a real value.  A simple demonstration of this type of machine learning would be determining the size of a DNA fragment that has migrated in an agarose gel based on the sizes of the bands of a DNA ladder.
+While both Classification and Regression are two kinds of supervised machine learning algorithms, the former is based on discrete or 
+categorical variables while the latter is based on continuous ones.  The Classification predictive model can be used to place something 
+in one of two groups (binomial classification) or even more groups (multi-class classification).  For example, to predict the gender of 
+an individual based on how much weight he or she can bench press. However, the output of a Regression problem is a real value.  A simple
+demonstration of this type of machine learning would be determining the size of a DNA fragment that has migrated in an agarose gel based
+on the sizes of the bands of a DNA ladder.
 
 See below for different types of Classification and Regression Supervised Learning Algorithms
 
