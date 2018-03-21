@@ -1,0 +1,19 @@
+Classification: 
+The outcome value is in a set of pre-defined data. The example will be for a chess engine to predict its next move.
+Algorithms for classification
+
+    Decision Trees
+    Logistic Regression
+    Naive Bayes
+    K Nearest Neighbors
+    Linear SVC (Support vector Classifier)
+    etc
+    
+Regression: 
+The outcome value is continuous. The example will be for the retailers to decide how many pieces of certain items to order.
+Regression Algorithms
+
+    Linear Regression
+    Regression Trees(e.g. Random Forest)
+    Support Vector Regression (SVR)
+    etc
