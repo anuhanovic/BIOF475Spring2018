@@ -1,0 +1,10 @@
+Classification trees have dependent variables that are categorical and unordered.
+Regression trees have dependent variables that are continuous values or ordered whole values.
+
+algorithms for classification: 
+naive bales classifier,  kernel estimation, random forests
+
+Algorithms for regression:
+Ordinary Least Squares Regression (OLSR)
+Logistic Regression
+Multivariate Adaptive Regression Splines (MARS）
