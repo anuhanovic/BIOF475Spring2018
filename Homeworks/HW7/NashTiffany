@@ -1,1 +1,4 @@
-Classification is about predicting a label or category whereas regression is about predicting a continuous quantity. Some classification algorithms are logistic regression, SVMs, decision trees, k-nearest neighbor, random forest. Some regression algorithms are k-nearest neighbor, simple linear regression, and multiple linear regression. The best algorithm is dependent upon the data and question. 
+Classification is about predicting a label or category whereas regression is about predicting a continuous quantity. 
+Some classification algorithms are logistic regression, SVMs, decision trees, k-nearest neighbor, random forest. 
+Some regression algorithms are k-nearest neighbor, simple linear regression, and multiple linear regression. 
+The best algorithm is dependent upon the data and question. 
