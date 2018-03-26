@@ -1,0 +1,16 @@
+
+
+
+
+
+Question 
+
+What Machine Learning Model besides random forest could be built? 
+
+Answer
+
+From what I learned in class, I am thinking that the model must be a supervised learning one. 
+Therefore, I could deploy a model that utilized a neural network algorithm.  For example, such 
+a model may predict the probability of a teenager becoming a pro basketball player based on height 
+and distance of home from a city park.
+This could also be used to solve the classification problem that was presented in class.

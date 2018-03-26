@@ -1,0 +1,4 @@
+Classification is used to assign data points to groups or labels based on some attribute(s). 
+Regression is used to predict values of dependent variables given independent variable values. 
+Some classification algorithms are k-means, nearest neighbors, naïve Bayes, and decision trees/random forests. 
+Some regression methods are ANOVAs (and ANCOVA, MANCOVA etc.), you can also add non-linear relationship tests and interactions. 

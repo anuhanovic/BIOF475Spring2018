@@ -1,0 +1,12 @@
+#!/anaconda3/bin/python
+import string
+text = open('rosalind_dna.txt')
+letters = string.ascii_lowercase
+for i in text:
+  text_lower = i.lower()
+  text_nospace = text_lower.replace(" ", "")
+  text_nopunctuation = text_nospace.strip(string.punctuation)
+  for a in letters:
+    if a in text_nopunctuation:
+      num = text_nopunctuation.count(a)
+      print(a, num)
