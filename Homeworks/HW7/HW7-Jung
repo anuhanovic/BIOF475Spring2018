@@ -1,0 +1,9 @@
+Question: Homework for Week 7 is to tell me what is the difference between Classification and Regresssion, and what algorithms are best to use with both.
+
+Regression: Attempts to assign an input to a continuous value. Performance is evaluated via accuracy of grouping.
+Classification: Attempts to assign an input to discrete groups. Performance is evaluated via accuracy deviation between the assigned labels and predicted labels.
+
+Algorithms:
+  - Regression: Simple Linear Regression, Polynomial Regression, LASSO Regression, ElasticNet Regression
+  - Classification: K-Means Clustering, Random Forest Classifier, Naive Bayesian Classifier, Decision Trees
+
