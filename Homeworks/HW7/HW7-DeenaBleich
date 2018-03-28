@@ -1,0 +1,11 @@
+Classification and Regression are both predication models.
+Classification - Puts input data into predefined discrete classes, based on the best match for the input data.
+Regression - Maps input data based on a statistical model that uses the continuous distribution trend of the training data set.
+
+Some Classification Algorithms:
+Decision tree
+Neural network
+
+some Regression Algorithms:
+Linear regression
+Logistic regression
