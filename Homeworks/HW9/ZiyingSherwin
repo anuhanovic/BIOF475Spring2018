@@ -1,0 +1,45 @@
+Two sets of data are used in this project:
+
+1. Air quality data:
+
+I obtained the air quality data by downloading the historical data from Airnow API using query format:
+
+http://www.airnowapi.org/aq/observation/zipCode/historical/?format=text/csv&zipCode=<zipcode>&date=YYYY-MM-DDT00-0000&distance=25&API_KEY=<key>
+
+The API has 500 queries/hour limit. The data is 24-hour average PM25 and Ozone. This part is done by running an hourly cron job to call a python script which retrieves the data.
+
+The data is fed to Rstudio, the date field was splitted for calculation of mean, max, min, median and std for each year:
+
+airnow <- read_csv("airnow-data/airnow-20906.csv", col_types = cols(DateObserved = col_date(format = "%Y-%m-%d")))
+colnames(airnow_20906) <- c("DateObserved","HourObserved","LocalTimeZone","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName")
+
+library(dplyr);
+library(tidyr);
+df <- airnow_20906 %>% separate(DateObserved, into=c("Year","Month", "Day"),sep="-")
+df2 <- df %>%
+group_by(Year,ParameterName) %>%
+summarise(YMean=mean(AQI, na.rm=TRUE), YMax=max(AQI,  na.rm=TRUE), YMin=min(AQI,  na.rm=TRUE), YMedian=median(AQI,  na.rm=TRUE), YStd=sd(AQI,  na.rm=TRUE))
+df2
+
+2. Bluebird nesting data:
+
+The data came in .xlsx format with nested cells. Rows with missing data are removed, then it was converted to csv format. Non-ascii characters are removed using sed command:
+
+    sed -i 's/[^[:print:]]//' bluebird-clean.csv
+
+The table is melted and formated using an awk script:
+
+#!/usr/bin/awk -f
+
+BEGIN {
+    FS = ","
+    format = "%s,%s,%s,%s\n"
+    printf format, "Trail", "Boxes", "Fledged", "Year"
+}
+{
+        printf format, $1, $2, $3,"2010";
+        printf format, $1, $4, $5,"2011";
+        printf format, $1, $6, $7,"2012";
+        printf format, $1, $8, $9,"2013";
+        printf format, $1, $10, $11,"2014";
+}
