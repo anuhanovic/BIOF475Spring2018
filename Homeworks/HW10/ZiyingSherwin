@@ -1,0 +1,2 @@
+How to prove that two sets of data are truly correlated? I use cor() function in R to get the number, but it can't garantee the
+data sets are indeed correlated.
