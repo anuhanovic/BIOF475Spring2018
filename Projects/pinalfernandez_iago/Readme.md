@@ -11,3 +11,10 @@ The main objectives of the project will be:
   - Study the association between classical biopsy features (perifascicular atrophy, necrosis...) with the RNAseq.
   - Study the association between extramuscular myositis features (lung and skin involvement) with the muscle RNAseq.
   - Study the expression of the antigens of the different myositis autoantibodies (CHD4 in anti-Mi2, HMGCR in anti-HMGCR...) in positive vs. negative patients.
+  
+So far, the source code attached to this project contains the pipeline to do the basic bioinformatic analysis and the dashboard to do a preliminary view of the data:
+  - Demultiplex the original sequencer output.
+  - Align sequences.
+  - Quality control.
+  - Differential expression.
+  - Graphical exploratory analysis.
