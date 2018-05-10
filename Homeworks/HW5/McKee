@@ -1,0 +1,1 @@
+Other methods thatcan be used to classify verbal data besides random forest are SVM, PCA or Naive Bayes with Train/Test from Scikit Learn.
