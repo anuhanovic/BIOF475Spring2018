@@ -1,3 +1,17 @@
+FLUTTER
+
+Videos: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
+
+https://github.com/Solido/awesome-flutter
+
+https://github.com/nisrulz/flutter-examples
+
+https://mobile.twitter.com/flutterfyi
+
+
+
+SWIFT 4.0
+
 * [http://swifteducation.github.io/](http://swifteducation.github.io/)
 
 * [https://www.apple.com/everyone-can-code/](https://www.apple.com/everyone-can-code/)
