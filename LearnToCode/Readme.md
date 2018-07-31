@@ -12,6 +12,10 @@ https://mobile.twitter.com/flutterfyi
 
 http://tphangout.com/flutter-side-menu/
 
+https://flutterweekly.net/
+
+https://medium.com/flutter-io/why-you-should-smoke-test-your-sample-code-and-how-to-do-it-in-flutter-ddaba88ce71e
+
 SWIFT 4.0
 
 * [http://swifteducation.github.io/](http://swifteducation.github.io/)
