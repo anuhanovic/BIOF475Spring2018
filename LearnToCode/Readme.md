@@ -16,6 +16,14 @@ https://flutterweekly.net/
 
 https://medium.com/flutter-io/why-you-should-smoke-test-your-sample-code-and-how-to-do-it-in-flutter-ddaba88ce71e
 
+Also on Google Drive share:
+
+- https://www.youtube.com/watch?time_continue=811&v=U_1QsGC_BQo Get Comfortable With Flutter
+
+- https://www.youtube.com/watch?v=dkyY9WCGMi0&t=6s The Mahogany Staircase - Flutter's Layered Design
+
+- https://www.youtube.com/watch?v=UUfXWzp0-DU Flutter Rendering Pipeline
+
 SWIFT 4.0
 
 * [http://swifteducation.github.io/](http://swifteducation.github.io/)
