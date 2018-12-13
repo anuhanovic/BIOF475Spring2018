@@ -1,5 +1,11 @@
 FLUTTER
 
+Alt + Enter on a widget (wrap/remove)
+Flutter Outline
+Ctrl + Alt + L to format your code
+Shift-Shift to search
+Shift-F6 to refactor
+
 https://itsallwidgets.com/
 
 Videos: https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
